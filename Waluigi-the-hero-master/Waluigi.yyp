@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "a84537c8-0ba0-4d77-8e4b-9e513832f55d",
+            "Value": {
+                "id": "09c3b1bd-8541-41ae-8c7e-82c5127b72e1",
+                "resourcePath": "objects\\o_random_bryan\\o_random_bryan.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "d93de941-aceb-4d44-8c46-caaa79c7aa09",

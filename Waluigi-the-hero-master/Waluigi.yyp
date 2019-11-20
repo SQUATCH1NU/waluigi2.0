@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "acc6e2b3-51dd-42a9-9a20-a65f14a53fe2",
+            "Value": {
+                "id": "2faea641-6596-4274-920a-9ee66096aa04",
+                "resourcePath": "objects\\o_waluigi\\o_waluigi.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "afb34a3f-bc2a-40ed-97cb-3ba5c7a163c7",
             "Value": {
                 "id": "faee8d88-53f9-4cc8-b471-d5e8a1deb29a",

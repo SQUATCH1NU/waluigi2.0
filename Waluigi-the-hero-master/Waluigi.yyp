@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "69edbf33-2e9d-486b-807b-e6b34af7c038",
+            "Value": {
+                "id": "530d0338-a6c3-4b25-9acd-ea4887c56696",
+                "resourcePath": "objects\\o_waluigi_day\\o_waluigi_day.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6c5a0f72-6016-4534-b51f-b389a979509c",
             "Value": {
                 "id": "0544b7df-d51b-4e2a-96d8-1e2b3cb11143",
